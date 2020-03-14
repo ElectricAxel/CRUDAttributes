@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDAtrributeTest", "CRUDAtrributeTest\CRUDAtrributeTest.csproj", "{9D4E41E9-52EB-4BBC-BD53-D67D174C8FC8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUDAttributeTest", "CRUDAtrributeTest\CRUDAttributeTest.csproj", "{9D4E41E9-52EB-4BBC-BD53-D67D174C8FC8}"
 	ProjectSection(ProjectDependencies) = postProject
 		{F8825954-DB02-44A1-A723-5E8E2BC90C45} = {F8825954-DB02-44A1-A723-5E8E2BC90C45}
 	EndProjectSection
@@ -27,5 +27,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C32AD74-0E05-4EB3-A723-2DFC5B691834}
 	EndGlobalSection
 EndGlobal
